@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **new skills**.
 - 💬 Ask me about **React, TypeScript, or anything here.**
-- 📫 How to reach me: **[your email]**
+- 📫 How to reach me: arpitasundaray9@gmail.com
 - ⚡ I’m enhancing my **DSA** using **C++**.
 
 <h2 align="left" style="color: #FF5733;">Connect with me:</h2>
