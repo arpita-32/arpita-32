@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name:arpita-32
+          github_user: arpita-32 # Corrected input key
 
       - name: Output Snake Animation
         run: |
