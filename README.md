@@ -87,5 +87,5 @@
 
 <h2 align="left" style="color: #FF5733;">Snake eating my contributions 🐍</h2>
 <div align="left">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arpita-32/arpita-32/output/github-contribution-grid-snake-dark.svg" style="border-radius: 8px;"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arpita-32/arpita-32/output/github-contribution-grid-snake.svg" style="border-radius: 8px;"/>
 </div>
