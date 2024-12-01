@@ -16,11 +16,13 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user: arpita-32 # Corrected input key
+          github_user:arpita-32
+          output: dist/snake.svg
 
       - name: Output Snake Animation
         run: |
-          mkdir -p dist && cp .github/snake.svg dist/snake.svg
+          mkdir -p dist
+          cp dist/snake.svg .github/snake.svg
 
   deploy:
     needs: generate
