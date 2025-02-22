@@ -74,6 +74,16 @@
   </a>
 </p>
 
+<h2 align="left" style="color: #FF5733;">Featured Projects:</h2>
+<p align="left">
+  <a href="https://github.com/arpita-32/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpita-32&repo=project-1&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/arpita-32/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpita-32&repo=project-2&theme=radical" alt="Project 2" />
+  </a>
+</p>
+
 <h2 align="left" style="color: #FF5733;">Stats:</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-32&show_icons=true&locale=en&layout=compact&theme=radical" alt="arpita-32 stats" style="border-radius: 8px; margin-bottom: 20px;" />
@@ -89,3 +99,10 @@
 <div align="left">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arpita-32/arpita-32/output/github-contribution-grid-snake.svg" style="border-radius: 8px;"/>
 </div>
+
+<h2 align="left" style="color: #FF5733;">Support Me:</h2>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/[your-username]" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="150" />
+  </a>
+</p>
