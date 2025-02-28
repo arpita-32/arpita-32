@@ -16,8 +16,9 @@ jobs:
         uses: Platane/snk@v1
         with:
           github_user_name: arpita-32
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
+          svg_output_path: ./output/github-contribution-grid-snake.svg
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Commit and push changes
         run: |
