@@ -12,7 +12,7 @@
 <div align="center">
   <ul style="list-style:none; padding: 0;">
     <li>🌱 I’m currently learning <b>new skills</b>.</li>
-    <li>💬 Ask me about <b>TypeScript</b>, or <b>anything here</b>.</li>
+    <li>💬 Ask me about <b>TypeScript</b>,<b>JavaScript</b> or <b>anything here</b>.</li>
     <li>📫 Reach me at: <b>arpitasundaray9@gmail.com</b>.</li>
     <li>⚡ I’m enhancing my <b>DSA</b> using <b>JAVA</b>.</li>
   </ul>
