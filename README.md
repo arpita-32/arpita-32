@@ -4,15 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpita-32&label=Profile%20Views&color=blueviolet&style=flat" alt="Visitor Count">
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpita-32&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies">
-</p>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke">
-</p>
-<p align="center">
-  <img src="https://spotify-now-playing-arpita-32.vercel.app/api/spotify" alt="Now Playing on Spotify">
-</p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Arpita Sundaray
 </h1>
@@ -50,7 +41,12 @@
 - ⚡ Fun fact: **I can solve Rubik's cube in under 2 minutes!**
 
 <hr>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpita-32&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies">
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke">
+</p>
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Tech Stack
 
 #### Languages
