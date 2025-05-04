@@ -40,7 +40,6 @@
 - 🌱 Learning **Spring Boot, Microservices, and Cloud Computing**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **TypeScript, JavaScript, or Java**
-- ⚡ Fun fact: **I can solve Rubik's cube in under 2 minutes!**
 
 <hr>
 
